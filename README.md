@@ -4,3 +4,4 @@
 # Modifications and secondary distribution are allowed, the author must be credited.
 # Commercial use is prohibited.
 # Usage requires crediting the author (SableFiSh).
+# Uncheck the mygo character collection to hide the character.
